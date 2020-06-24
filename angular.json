@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rocket-reach"
+    }
+  },
+  "defaultProject": "rocket-reach",
+  "cli": {
+    "analytics": "da6ceef1-99a1-4ec8-9be6-b969a2970f49"
+  }
 }
