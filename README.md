@@ -1,5 +1,7 @@
 # RocketReach
 
+Front end portion of coding excercize explained in Coding Exercise.pdf
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
 ## Development server
